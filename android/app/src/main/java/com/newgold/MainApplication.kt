@@ -1,4 +1,4 @@
-package com.newgold
+package com.newgoldshow
 
 import android.app.Application
 import com.facebook.react.PackageList

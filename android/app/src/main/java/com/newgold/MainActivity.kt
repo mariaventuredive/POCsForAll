@@ -1,4 +1,4 @@
-package com.newgold
+package com.newgoldshow
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
